@@ -22,14 +22,14 @@ systems.
 
 ### Running
 
-  * OpenFOAM 2.3.x
+  * OpenFOAM 3.0.x
   * foamPy (available via `pip install foampy`)
 
 
 ### Post-processing
 
   * swak4Foam
-  * [OpenFOAM 2.3.x with modified `execFlowFunctionObjects`](https://github.com/petebachant/OpenFOAM-2.3.x/tree/functionObjMeshMotion)
+  * OpenFOAM 3.0.x
   * NumPy
   * matplotlib
   * pandas
